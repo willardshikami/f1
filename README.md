@@ -1,2 +1,2 @@
-# Notes App
-an angular2 notetaking app 
+# F1 BOARD
+F1 standings and more.
