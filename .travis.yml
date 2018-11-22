@@ -30,6 +30,7 @@ script:
   - ng test --watch=false
   - codecov 
   - ng build --prod
+
   
 deploy:
   provider: pages
